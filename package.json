@@ -1,0 +1,21 @@
+{
+  "name": "InfiScroll",
+  "version": "0.0.0",
+  "description": "Infinite Scroll Component for React",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "infinite",
+    "scroll",
+    "react"
+  ],
+  "author": "Devang Paliwal",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^6.0.3",
+    "grunt": "^0.4.5",
+    "grunt-browserify": "^3.0.1"
+  }
+}
